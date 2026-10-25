@@ -13,6 +13,7 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 | Component | Description |
 |:---|:---|
 | `i3` | Tiling window manager |
+| `Xfce4-terminal` | Terminal |
 | `Polybar` | Status bar |
 | `Rofi` | Application launcher |
 | `Neovim` | Text editor |
