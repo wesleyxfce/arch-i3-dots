@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="font-name" type="string" value="JetBrainsMono Nerd Font Semi-Bold Italic 13"/>
+  <property name="scrolling-on-keystroke" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="color-foreground" type="string" value="#f0f071717877"/>
+</channel>

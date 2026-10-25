@@ -1,0 +1,8 @@
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+configuration {
+	font: "JetBrainsMono Nerd Font 11";
+}
+
+@theme "/home/wesley/.local/share/rofi/themes/squared-material-red.rasi"

@@ -1,0 +1,22 @@
+{
+  "logo": {
+    "type": "small",
+    "color": {
+      "1": "38;2;240;113;120",
+      "2": "38;2;240;113;120"
+
+    }
+  },
+  "display": {
+    "separator": "  "
+  },
+  "modules": [
+    { "type": "custom", "format": "─────────────────────" },
+    { "type": "os",     "key": "\uf303  os    ", "keyColor": "blue" },
+    { "type": "wm",     "key": "\uf2d0  wm    ", "keyColor": "magenta" },
+    { "type": "shell",  "key": "\uf120  shell ", "keyColor": "green" },
+    { "type": "uptime", "key": "\uf017  uptime", "keyColor": "yellow" },
+    { "type": "memory", "key": "\uf2db  mem    ", "keyColor": "red" },
+    { "type": "custom", "format": "─────────────────────" }
+  ]
+}
