@@ -47,6 +47,8 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 ├── assents/
 │   └── preview.png
 └── README.md
+│
+└── Install.sh
 ```
 
 # Keybindings
