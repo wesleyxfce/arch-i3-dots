@@ -183,7 +183,7 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-exec --no-startup-id feh --bg-fill "/wallpapers/wp6600355-serial-experiments-lain-wallpapers.jpg"
+exec --no-startup-id feh --bg-fill ~/Pictures/wallpapers/wp6600355-serial-experiments-lain-wallpapers.jpg
 
 bindsym $mod+n exec --no-startup-id thunar
 
