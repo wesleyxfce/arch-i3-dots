@@ -72,4 +72,5 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 - [feh](https://feh.finalrewind.org/)
 - [btop](https://github.com/aristocratos/btop)
 
+
 Made by Wesley Firmino
