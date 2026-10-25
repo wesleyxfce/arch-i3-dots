@@ -1,4 +1,4 @@
-# i3 Rice
+# i3wm Rice
 
 A customized Linux desktop setup focused on minimalism, aesthetics, and productivity.
 
