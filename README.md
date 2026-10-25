@@ -5,7 +5,8 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 
 # Preview
 
-<img src="assents/preview.png" width="800"
+<img src="assents/preview.png">
+
 
 # Components
 
