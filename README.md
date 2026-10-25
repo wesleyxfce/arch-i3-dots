@@ -22,6 +22,7 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 | `feh` | Image viewer and wallpaper manager |
 | `btop` | System resource monitor |
 | `Squared Material Red` | Rofi theme |
+| `JetBrainsMono` | Nerd font |
 
 
 # Repository Structure
