@@ -23,6 +23,7 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 | `btop` | System resource monitor |
 | `Squared Material Red` | Rofi theme |
 | `JetBrainsMono` | Nerd font |
+| `Dunst` | Notifications |
 
 
 # Repository Structure
@@ -38,15 +39,17 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 │   │   └── init.lua
 │   ├── polybar/
 │   │   └── config.ini
-│   └── rofi/
-│       └── config.rasi
+│   ├── rofi/
+│   │   └── config.rasi
+│   └── dunst/
+│       └── dunstrc
 ├── tema-rofi/
 │   └── squared-material-red.rasi
 ├── wallpapers/
 │   └── ...
 ├── assents/
 │   └── preview.png
-└── README.md
+├── README.md
 │
 └── Install.sh
 ```
@@ -74,6 +77,7 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 - [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - [feh](https://feh.finalrewind.org/)
 - [btop](https://github.com/aristocratos/btop)
+- [Dunst](https://github.com/dunst-project/dunst)
 
 
 Made by Wesley Firmino
