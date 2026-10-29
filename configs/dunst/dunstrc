@@ -1,0 +1,28 @@
+[global]
+    follow = mouse
+    origin = top-right
+    offset = (15, 15)
+    width = (250, 350)
+    padding = 10
+    horizontal_padding = 12
+    frame_width = 2
+    frame_color = "#f07178"
+    separator_color = frame
+    corner_radius = 0
+    font = JetBrainsMono Nerd Font 10
+
+[urgency_low]
+    background = "#000f08"
+    foreground = "#cccccc"
+    timeout = 5
+
+[urgency_normal]
+    background = "#000f08"
+    foreground = "#ffffff"
+    timeout = 8
+
+[urgency_critical]
+    background = "#000f08"
+    foreground = "#ffffff"
+    frame_color = "#f07178"
+    timeout = 0
