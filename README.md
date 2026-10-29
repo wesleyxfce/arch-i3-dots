@@ -78,6 +78,7 @@ A customized Linux desktop setup focused on minimalism, aesthetics, and producti
 - [feh](https://feh.finalrewind.org/)
 - [btop](https://github.com/aristocratos/btop)
 - [Dunst](https://github.com/dunst-project/dunst)
+- [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 
 
 Made by Wesley Firmino
